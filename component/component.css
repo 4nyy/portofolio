@@ -1,0 +1,71 @@
+.j-center{
+    justify-content: center;
+}
+
+.a-center{
+    align-items: center;
+}
+
+.f-wrap{
+    flex-wrap: wrap;
+}
+
+.f-direction{
+    flex-direction: column;
+}
+
+.tosca{
+    background-color:rgb(0, 215, 215);
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+
+.tosca:hover{
+    background-color:rgb(0, 121, 121);
+    color: rgb(198, 198, 198);
+}
+
+.yelow{
+    background-color: rgb(237, 237, 49);
+    color: black;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+
+.yelow:hover{
+
+    background-color: rgb(152, 152, 33);
+}
+
+.ping{
+    background-color: rgb(252, 112, 135);
+    cursor: pointer;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+
+.ping:hover{
+    background-color: rgb(168, 77, 92);
+    color: rgb(198, 198, 198);
+}
+
+.blu{
+    background-color: rgb(0, 60, 255);
+}
+
+.blu:hover{
+    background-color: rgb(1, 45, 188);
+}
+
+.blck{
+    background-color:  rgb(34, 34, 44);
+}
+
+.blck:hover{
+    background-color:  rgb(58, 58, 71);
+}
+
+.small{
+    font-weight:normal;
+    color: rgb(108, 108, 112);
+}
